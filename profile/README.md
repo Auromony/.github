@@ -1,6 +1,6 @@
 # Auromony
 
-Auromony is a cross-chain asset bridge between Aurora and Harmony based on [NXTP](https://github.com/connext/nxtp).
+Auromony is a custom build of [Connext](https://www.connext.network/) that enables trustless bridging between Aurora and Harmony using Hash Time Locked Contracts (HTLCs).
 
 ## Development Status
 
