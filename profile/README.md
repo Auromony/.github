@@ -4,8 +4,6 @@ Auromony is a custom build of [Connext](https://www.connext.network/) that enabl
 
 Demonstration Video (Testnet): https://www.youtube.com/watch?v=sVJhroZi2Gg
 
-Prototype available for testing with limited initial liquidity of USDC here: http://auromony.s3-website-us-east-1.amazonaws.com/
-
 ## Development Status
 
 Prototyped: nxtp + coinhippo-bridge + chaindata
